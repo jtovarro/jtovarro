@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Red Hat
 - 🌱 Learning about Kubernetes, OpenShift, GitOps, Automation...
 - 💬 Always open to have a conversation :)
-- 📫 How to reach me: jjccttrr@hotmail.com
+- 📫 How to reach me: jtovarro@redhat.com
