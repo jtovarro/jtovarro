@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Always open to have a conversation :)
 - 📫 How to reach me: jtovarro@redhat.com
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="techtovar" data-color="#FFDD00" data-emoji="🍌"  data-font="Cookie" data-text="Buy me a piece of fruit" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/techtovar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a piece of fruit&emoji=🍌&slug=techtovar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
